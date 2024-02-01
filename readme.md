@@ -1,3 +1,7 @@
+# Notice
+
+This was a fun project I made over a couple of days before I knew anything about servers or build systems. If you are looking for a good template, look elsewhere or start from scratch like I did! Thanks for looking though! :)
+
 # Full-stack babylon.js multiplayer game with TypeScript
 
 A dead simple full-stack multiplayer game starter using babylon.js for the
